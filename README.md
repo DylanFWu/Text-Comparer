@@ -1,5 +1,6 @@
-# LHL-Mini-Project-V
-Determine whether 2 Quora questions are asking the same thing.
+# Question similarity model
+
+Determine whether 2 questions are asking the same thing.
 
 data used can be found at 
 
